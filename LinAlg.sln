@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinAlg", "LinAlg\LinAlg.csproj", "{9E793E23-20CA-408E-B125-684135BD1B5D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9E793E23-20CA-408E-B125-684135BD1B5D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E793E23-20CA-408E-B125-684135BD1B5D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E793E23-20CA-408E-B125-684135BD1B5D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E793E23-20CA-408E-B125-684135BD1B5D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EC4BE5F1-0AF2-47C7-9307-4283E2D93D52}
+	EndGlobalSection
+EndGlobal
